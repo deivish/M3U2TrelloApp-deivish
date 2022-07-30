@@ -2,7 +2,7 @@
     "tasks": [
         {
             "id":1,
-            "title": "frontend",
+            "title": "Frontend",
             "person": "Deivis",
             "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
             "state": "done",
@@ -14,7 +14,7 @@
             "title": "Backend",
             "person": "Deivis Herrera",
             "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            "state": "doing",
+            "state": "to-do",
             "deadline": 56325562224,
             "created": 5464225679 
         }

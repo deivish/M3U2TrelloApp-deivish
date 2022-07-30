@@ -13,6 +13,7 @@
   will-change: transform;
   transition: transform var(--duration-transition-base);
   z-index: var(--z-layer-fixed);
+  background: #d2dae2;
 }
 
 .aside-app.active

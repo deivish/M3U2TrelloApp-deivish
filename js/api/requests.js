@@ -1,6 +1,5 @@
 // Creación de varible para guarda la URL de la API Fake
 const API_URL = "https://my-json-server.typicode.com/Deivish/M3U2TrelloApp-deivish";
-//https://my-json-server.typicode.com/Stiwar9816/kanbanApp
 
 
 //Hacemos una petición get a la API Fake utlizando los templates strings
