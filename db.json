@@ -4,7 +4,7 @@
             "id":1,
             "title": "Frontend",
             "person": "Deivis",
-            "details": "Lorem ipsum adipisicing elit.",
+            "details": "Proyecto Camban Trello App.",
             "state": "done",
             "deadline": 1278652184,
             "created": 4346673722
@@ -13,7 +13,16 @@
             "id":2,
             "title": "Backend",
             "person": "Deivis Herrera",
-            "details": "Lorem ipsum adipisicing elit.",
+            "details": "Modificación de la API fake.",
+            "state": "to-do",
+            "deadline": 56325562224,
+            "created": 5464225679 
+        },
+        {
+            "id":3,
+            "title": "Frontend",
+            "person": "Deivis Cortes",
+            "details": "Terminar Mejoras de Estilo.",
             "state": "to-do",
             "deadline": 56325562224,
             "created": 5464225679 
