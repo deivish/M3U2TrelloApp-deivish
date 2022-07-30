@@ -4,16 +4,16 @@
             "id":1,
             "title": "Frontend",
             "person": "Deivis",
-            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "details": "Lorem ipsum adipisicing elit.",
             "state": "done",
             "deadline": 1278652184,
             "created": 4346673722
         },
         {
-            "id": 2,
+            "id":2,
             "title": "Backend",
             "person": "Deivis Herrera",
-            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "details": "Lorem ipsum adipisicing elit.",
             "state": "to-do",
             "deadline": 56325562224,
             "created": 5464225679 
